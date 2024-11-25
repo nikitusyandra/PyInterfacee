@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pyinterfacee"
+version = "0.1.0"
+description = ""
+authors = ["nikitusyandra <chexov04@inbox.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyqt5 = "^5.15.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
